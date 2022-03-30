@@ -5,7 +5,7 @@ This is a test of the [https://cla-assistant.io/](https://cla-assistant.io/) Git
 Note: This is a suitable mechanism for getting individual contributor agreement signatures but is not suitable for organisations. This requires a "wet paper" copy. There is a good guide on this attached to a few projects. E.g.
 
  - [List Stat Contributing Guidlines](https://lisp-stat.dev/docs/contributing/)
- - [Oasis Open (Good Description of Entity CLA)][https://www.oasis-open.org/open-projects/cla/] 
+ - [Oasis Open (Good Description of Entity CLA)](https://www.oasis-open.org/open-projects/cla/)
  - [Google Open Source](https://opensource.google/documentation/reference/cla)
  
 ## How to try this
